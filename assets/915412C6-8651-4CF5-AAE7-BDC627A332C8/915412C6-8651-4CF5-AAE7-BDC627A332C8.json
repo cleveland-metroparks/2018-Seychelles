@@ -42,11 +42,11 @@
         "state" : "contents",
         "slide" : "none"
       },
-      "index" : 4
+      "index" : 5
     },
     "DBA98BEA75B710B571160188698EAB31" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -60,7 +60,7 @@
     },
     "63D6F63BDC96FDB7E5FCD83C8FBB73E5" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -100,9 +100,23 @@
       "width" : 1024,
       "height" : 768
     },
+    "9F75FA6215C961A25D41B549283BD8F7" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/915412C6-8651-4CF5-AAE7-BDC627A332C8.pdf"
+      },
+      "width" : 1027,
+      "height" : 579
+    },
     "446D4FA0199CDEE839C1B743CCE2DFD5" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 7,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -335,7 +349,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "63D6F63BDC96FDB7E5FCD83C8FBB73E5"
+                    "texture" : "9F75FA6215C961A25D41B549283BD8F7"
                   }
                 ]
               }
@@ -558,21 +572,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "fly in a cross pattern",
-          "targetRectangle" : {
-            "y" : 37.608300924301147,
-            "x" : 74.239978551864624,
-            "width" : 508.533203125,
-            "height" : 76
-          }
-        },
-        {
           "text" : "Picture 6",
           "targetRectangle" : {
             "y" : 718.06096148490906,
             "x" : 823.65613341331482,
             "width" : 191.09688421153169,
             "height" : 46.369973190219753
+          }
+        },
+        {
+          "text" : "fly in a cross pattern",
+          "targetRectangle" : {
+            "y" : 37.608300924301147,
+            "x" : 74.239978551864624,
+            "width" : 508.533203125,
+            "height" : 76
           }
         }
       ],
@@ -1356,7 +1370,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "63D6F63BDC96FDB7E5FCD83C8FBB73E5"
+                    "texture" : "9F75FA6215C961A25D41B549283BD8F7"
                   }
                 ]
               }
@@ -1647,21 +1661,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "fly in a cross pattern",
-          "targetRectangle" : {
-            "y" : 37.608300924301147,
-            "x" : 74.239978551864624,
-            "width" : 508.533203125,
-            "height" : 76
-          }
-        },
-        {
           "text" : "Picture 6",
           "targetRectangle" : {
             "y" : 718.06096148490906,
             "x" : 823.65613341331482,
             "width" : 191.09688421153169,
             "height" : 46.369973190219753
+          }
+        },
+        {
+          "text" : "fly in a cross pattern",
+          "targetRectangle" : {
+            "y" : 37.608300924301147,
+            "x" : 74.239978551864624,
+            "width" : 508.533203125,
+            "height" : 76
           }
         }
       ],
@@ -2445,7 +2459,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "63D6F63BDC96FDB7E5FCD83C8FBB73E5"
+                    "texture" : "9F75FA6215C961A25D41B549283BD8F7"
                   }
                 ]
               }

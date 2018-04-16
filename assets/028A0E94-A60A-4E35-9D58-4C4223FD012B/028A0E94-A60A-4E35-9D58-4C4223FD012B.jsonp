@@ -2,6 +2,20 @@ local_slide( {
   "name" : "028A0E94-A60A-4E35-9D58-4C4223FD012B",
   "json" : {
     "assets" : {
+      "0AB769F8D90AD22CE82E239D3EEB29E2" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/028A0E94-A60A-4E35-9D58-4C4223FD012B.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "779A06890570B1190F26AF91FC9AD4C9" : {
         "type" : "texture",
         "index" : 1,
@@ -18,21 +32,7 @@ local_slide( {
       },
       "6604C7F3DECB3DA41FAD7B7655CB997E" : {
         "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/028A0E94-A60A-4E35-9D58-4C4223FD012B.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "DB8451458D98EFA7506DBEBC2B1323F0" : {
-        "type" : "texture",
-        "index" : 0,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -58,9 +58,23 @@ local_slide( {
         "width" : 128,
         "height" : 49
       },
-      "EE98CF2581650FCF36E9B12294CB485C" : {
+      "DB8451458D98EFA7506DBEBC2B1323F0" : {
         "type" : "texture",
         "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/028A0E94-A60A-4E35-9D58-4C4223FD012B.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
+      "EE98CF2581650FCF36E9B12294CB485C" : {
+        "type" : "texture",
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -820,7 +834,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "DB8451458D98EFA7506DBEBC2B1323F0"
+                      "texture" : "0AB769F8D90AD22CE82E239D3EEB29E2"
                     }
                   ]
                 }

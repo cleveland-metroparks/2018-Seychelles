@@ -556,8 +556,8 @@
         {
           "text" : "Optimum for 3D and areas with high relief",
           "targetRectangle" : {
-            "y" : 92.288753271102948,
-            "x" : 74.239978551864681,
+            "y" : 92.288753271102905,
+            "x" : 74.239978551864624,
             "width" : 799.52844726562512,
             "height" : 140.59999823570251
           }
@@ -871,8 +871,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 463.89997863769537,
-                    "pointY" : 148.94875335693365
+                    "pointX" : 463.89997863769531,
+                    "pointY" : 148.94875335693359
                   },
                   "width" : 787,
                   "sublayerTransform" : [
@@ -919,7 +919,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.23172470464939027,
-                      "textBaseline" : 0.89760052673215818,
+                      "textBaseline" : 0.89760052673215784,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -943,8 +943,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 398.10002136230463,
-                        "pointY" : 80.051246643066364
+                        "pointX" : 398.10002136230469,
+                        "pointY" : 80.051246643066406
                       },
                       "width" : 787,
                       "sublayerTransform" : [
@@ -1847,8 +1847,8 @@
         {
           "text" : "Optimum for 3D and areas with high relief",
           "targetRectangle" : {
-            "y" : 92.288753271102948,
-            "x" : 74.239978551864681,
+            "y" : 92.288753271102905,
+            "x" : 74.239978551864624,
             "width" : 799.52844726562512,
             "height" : 140.59999823570251
           }
@@ -2162,8 +2162,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 463.89997863769537,
-                    "pointY" : 148.94875335693365
+                    "pointX" : 463.89997863769531,
+                    "pointY" : 148.94875335693359
                   },
                   "width" : 787,
                   "sublayerTransform" : [
@@ -2210,7 +2210,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.23172470464939027,
-                      "textBaseline" : 0.89760052673215818,
+                      "textBaseline" : 0.89760052673215784,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2234,8 +2234,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 398.10002136230463,
-                        "pointY" : 80.051246643066364
+                        "pointX" : 398.10002136230469,
+                        "pointY" : 80.051246643066406
                       },
                       "width" : 787,
                       "sublayerTransform" : [
@@ -3147,8 +3147,8 @@
         {
           "text" : "Optimum for 3D and areas with high relief",
           "targetRectangle" : {
-            "y" : 92.288753271102948,
-            "x" : 74.239978551864681,
+            "y" : 92.288753271102905,
+            "x" : 74.239978551864624,
             "width" : 799.52844726562512,
             "height" : 140.59999823570251
           }
@@ -3462,8 +3462,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 463.89997863769537,
-                    "pointY" : 148.94875335693365
+                    "pointX" : 463.89997863769531,
+                    "pointY" : 148.94875335693359
                   },
                   "width" : 787,
                   "sublayerTransform" : [
@@ -3510,7 +3510,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.23172470464939027,
-                      "textBaseline" : 0.89760052673215818,
+                      "textBaseline" : 0.89760052673215784,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -3534,8 +3534,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 398.10002136230463,
-                        "pointY" : 80.051246643066364
+                        "pointX" : 398.10002136230469,
+                        "pointY" : 80.051246643066406
                       },
                       "width" : 787,
                       "sublayerTransform" : [
@@ -4456,8 +4456,8 @@
         {
           "text" : "Optimum for 3D and areas with high relief",
           "targetRectangle" : {
-            "y" : 92.288753271102948,
-            "x" : 74.239978551864681,
+            "y" : 92.288753271102905,
+            "x" : 74.239978551864624,
             "width" : 799.52844726562512,
             "height" : 140.59999823570251
           }
@@ -4771,8 +4771,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 463.89997863769537,
-                    "pointY" : 148.94875335693365
+                    "pointX" : 463.89997863769531,
+                    "pointY" : 148.94875335693359
                   },
                   "width" : 787,
                   "sublayerTransform" : [
@@ -4819,7 +4819,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.23172470464939027,
-                      "textBaseline" : 0.89760052673215818,
+                      "textBaseline" : 0.89760052673215784,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -4843,8 +4843,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 398.10002136230463,
-                        "pointY" : 80.051246643066364
+                        "pointX" : 398.10002136230469,
+                        "pointY" : 80.051246643066406
                       },
                       "width" : 787,
                       "sublayerTransform" : [
@@ -5616,8 +5616,8 @@
         {
           "text" : "Optimum for 3D and areas with high relief",
           "targetRectangle" : {
-            "y" : 92.288753271102948,
-            "x" : 74.239978551864681,
+            "y" : 92.288753271102905,
+            "x" : 74.239978551864624,
             "width" : 799.52844726562512,
             "height" : 140.59999823570251
           }
@@ -5932,8 +5932,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 463.89997863769537,
-                    "pointY" : 148.94875335693365
+                    "pointX" : 463.89997863769531,
+                    "pointY" : 148.94875335693359
                   },
                   "width" : 787,
                   "sublayerTransform" : [
@@ -5980,7 +5980,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.23172470464939027,
-                      "textBaseline" : 0.89760052673215818,
+                      "textBaseline" : 0.89760052673215784,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -6004,8 +6004,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 398.10002136230463,
-                        "pointY" : 80.051246643066364
+                        "pointX" : 398.10002136230469,
+                        "pointY" : 80.051246643066406
                       },
                       "width" : 787,
                       "sublayerTransform" : [

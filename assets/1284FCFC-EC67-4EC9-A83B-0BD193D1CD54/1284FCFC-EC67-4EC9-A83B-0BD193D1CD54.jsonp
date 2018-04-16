@@ -58,9 +58,23 @@ local_slide( {
         "width" : 219,
         "height" : 56
       },
+      "AC028140D2553EF035ABFADFA587EEE6" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1284FCFC-EC67-4EC9-A83B-0BD193D1CD54.pdf"
+        },
+        "width" : 454,
+        "height" : 304
+      },
       "54A4E9662C99EE02FFE9CE47D5319712" : {
         "type" : "texture",
-        "index" : 11,
+        "index" : 12,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -71,6 +85,20 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
+      },
+      "BDC5B81ACAD5CDA2AAAA067E9AB84E7C" : {
+        "type" : "texture",
+        "index" : 8,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1284FCFC-EC67-4EC9-A83B-0BD193D1CD54.pdf"
+        },
+        "width" : 554,
+        "height" : 19
       },
       "09E32A26577A9FAFF05FBD42346B63E6" : {
         "type" : "texture",
@@ -88,7 +116,7 @@ local_slide( {
       },
       "9B19848E750F63B93EAB270BE3B02DE2" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 11,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -99,20 +127,6 @@ local_slide( {
         },
         "width" : 454,
         "height" : 304
-      },
-      "BDC5B81ACAD5CDA2AAAA067E9AB84E7C" : {
-        "type" : "texture",
-        "index" : 8,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1284FCFC-EC67-4EC9-A83B-0BD193D1CD54.pdf"
-        },
-        "width" : 554,
-        "height" : 19
       },
       "1D44150593FDCDE2A617600B152DB0D8" : {
         "type" : "texture",
@@ -156,6 +170,20 @@ local_slide( {
         "width" : 224,
         "height" : 20
       },
+      "FF1357FC72225C34821F05F0132844ED" : {
+        "type" : "texture",
+        "index" : 13,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/1284FCFC-EC67-4EC9-A83B-0BD193D1CD54.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
+      },
       "756B3AD47852EBC1E1378BADFA5B7201" : {
         "type" : "texture",
         "index" : 1,
@@ -169,20 +197,6 @@ local_slide( {
         },
         "width" : 568,
         "height" : 47
-      },
-      "FF1357FC72225C34821F05F0132844ED" : {
-        "type" : "texture",
-        "index" : 12,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/1284FCFC-EC67-4EC9-A83B-0BD193D1CD54.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
       }
     },
     "events" : [
@@ -456,21 +470,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Picture 4",
-            "targetRectangle" : {
-              "y" : 292.70919799804688,
-              "x" : 46.671600341796875,
-              "width" : 450.47592163085938,
-              "height" : 300.31723022460938
-            }
-          },
-          {
             "text" : "Matches features extracted from images with overlap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
               "x" : 98.668549656867981,
               "width" : 823.6611328125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Picture 4",
+            "targetRectangle" : {
+              "y" : 292.70919799804688,
+              "x" : 46.671600341796875,
+              "width" : 450.47592163085938,
+              "height" : 300.31723022460938
             }
           },
           {
@@ -1467,7 +1481,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "9B19848E750F63B93EAB270BE3B02DE2"
+                      "texture" : "AC028140D2553EF035ABFADFA587EEE6"
                     }
                   ]
                 }
@@ -3026,21 +3040,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Picture 4",
-            "targetRectangle" : {
-              "y" : 292.70919799804688,
-              "x" : 46.671600341796875,
-              "width" : 450.47592163085938,
-              "height" : 300.31723022460938
-            }
-          },
-          {
             "text" : "Matches features extracted from images with overlap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
               "x" : 98.668549656867981,
               "width" : 823.6611328125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Picture 4",
+            "targetRectangle" : {
+              "y" : 292.70919799804688,
+              "x" : 46.671600341796875,
+              "width" : 450.47592163085938,
+              "height" : 300.31723022460938
             }
           },
           {
@@ -5596,21 +5610,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Picture 4",
-            "targetRectangle" : {
-              "y" : 292.70919799804688,
-              "x" : 46.671600341796875,
-              "width" : 450.47592163085938,
-              "height" : 300.31723022460938
-            }
-          },
-          {
             "text" : "Matches features extracted from images with overlap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
               "x" : 98.668549656867981,
               "width" : 823.6611328125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Picture 4",
+            "targetRectangle" : {
+              "y" : 292.70919799804688,
+              "x" : 46.671600341796875,
+              "width" : 450.47592163085938,
+              "height" : 300.31723022460938
             }
           },
           {
@@ -8166,21 +8180,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Picture 4",
-            "targetRectangle" : {
-              "y" : 292.70919799804688,
-              "x" : 46.671600341796875,
-              "width" : 450.47592163085938,
-              "height" : 300.31723022460938
-            }
-          },
-          {
             "text" : "Matches features extracted from images with overlap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
               "x" : 98.668549656867981,
               "width" : 823.6611328125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Picture 4",
+            "targetRectangle" : {
+              "y" : 292.70919799804688,
+              "x" : 46.671600341796875,
+              "width" : 450.47592163085938,
+              "height" : 300.31723022460938
             }
           },
           {
@@ -10757,21 +10771,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Picture 4",
-            "targetRectangle" : {
-              "y" : 292.70919799804688,
-              "x" : 46.671600341796875,
-              "width" : 450.47592163085938,
-              "height" : 300.31723022460938
-            }
-          },
-          {
             "text" : "Matches features extracted from images with overlap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
               "x" : 98.668549656867981,
               "width" : 823.6611328125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Picture 4",
+            "targetRectangle" : {
+              "y" : 292.70919799804688,
+              "x" : 46.671600341796875,
+              "width" : 450.47592163085938,
+              "height" : 300.31723022460938
             }
           },
           {

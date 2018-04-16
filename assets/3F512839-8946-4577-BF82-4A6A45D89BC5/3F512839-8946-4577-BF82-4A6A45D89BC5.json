@@ -572,21 +572,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Picture 6",
-          "targetRectangle" : {
-            "y" : 718.06096148490906,
-            "x" : 823.65613341331482,
-            "width" : 191.09688421153169,
-            "height" : 46.369973190219753
-          }
-        },
-        {
           "text" : "at two different elevations",
           "targetRectangle" : {
             "y" : 37.608300924301147,
             "x" : 74.239978551864624,
             "width" : 663.2607421875,
             "height" : 76
+          }
+        },
+        {
+          "text" : "Picture 6",
+          "targetRectangle" : {
+            "y" : 718.06096148490906,
+            "x" : 823.65613341331482,
+            "width" : 191.09688421153169,
+            "height" : 46.369973190219753
           }
         }
       ],
@@ -1661,21 +1661,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Picture 6",
-          "targetRectangle" : {
-            "y" : 718.06096148490906,
-            "x" : 823.65613341331482,
-            "width" : 191.09688421153169,
-            "height" : 46.369973190219753
-          }
-        },
-        {
           "text" : "at two different elevations",
           "targetRectangle" : {
             "y" : 37.608300924301147,
             "x" : 74.239978551864624,
             "width" : 663.2607421875,
             "height" : 76
+          }
+        },
+        {
+          "text" : "Picture 6",
+          "targetRectangle" : {
+            "y" : 718.06096148490906,
+            "x" : 823.65613341331482,
+            "width" : 191.09688421153169,
+            "height" : 46.369973190219753
           }
         }
       ],

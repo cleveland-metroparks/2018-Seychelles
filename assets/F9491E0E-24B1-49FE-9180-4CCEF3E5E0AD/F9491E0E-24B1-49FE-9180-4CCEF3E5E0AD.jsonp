@@ -16,21 +16,7 @@ local_slide( {
         "width" : 273,
         "height" : 46
       },
-      "1DE4ACF218030ACD3F5C5008AADC60B8" : {
-        "type" : "texture",
-        "index" : 5,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/F9491E0E-24B1-49FE-9180-4CCEF3E5E0AD.pdf"
-        },
-        "width" : 1024,
-        "height" : 768
-      },
-      "5E0C7A2659B5468A2E78B9186285E923" : {
+      "BD99C81542745BF9FACDB41F94B1F386" : {
         "type" : "texture",
         "index" : 3,
         "assetRequest" : {
@@ -41,8 +27,36 @@ local_slide( {
         "url" : {
           "native" : "assets\/F9491E0E-24B1-49FE-9180-4CCEF3E5E0AD.pdf"
         },
-        "width" : 423,
-        "height" : 35
+        "width" : 820,
+        "height" : 81
+      },
+      "9DCF723043C111D1D9C1B02605DB1813" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F9491E0E-24B1-49FE-9180-4CCEF3E5E0AD.pdf"
+        },
+        "width" : 846,
+        "height" : 241
+      },
+      "D241CAB9181A833DCE11FA4062B3A6CB" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F9491E0E-24B1-49FE-9180-4CCEF3E5E0AD.pdf"
+        },
+        "width" : 1024,
+        "height" : 768
       },
       "DB8451458D98EFA7506DBEBC2B1323F0" : {
         "type" : "texture",
@@ -58,23 +72,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "A68DCEA384992780E11FA5EB10174BC5" : {
+      "EF73514CD66636B090064F5F4A518319" : {
         "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/F9491E0E-24B1-49FE-9180-4CCEF3E5E0AD.pdf"
-        },
-        "width" : 867,
-        "height" : 249
-      },
-      "D241CAB9181A833DCE11FA4062B3A6CB" : {
-        "type" : "texture",
-        "index" : 4,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -109,10 +109,10 @@ local_slide( {
                 "rotation" : 0,
                 "scale" : 1,
                 "position" : {
-                  "pointX" : 503.89997863769531,
-                  "pointY" : 413.33332824707031
+                  "pointX" : 493.39997863769531,
+                  "pointY" : 425.33332824707031
                 },
-                "width" : 867,
+                "width" : 846,
                 "sublayerTransform" : [
                   1,
                   0,
@@ -139,7 +139,7 @@ local_slide( {
                 },
                 "opacity" : 1,
                 "edgeAntialiasingMask" : 251658240,
-                "height" : 328,
+                "height" : 352,
                 "hidden" : false,
                 "anchorPoint" : {
                   "pointX" : 0.5,
@@ -168,7 +168,7 @@ local_slide( {
                       "pointX" : 441.60002136230469,
                       "pointY" : 134.66667175292969
                     },
-                    "width" : 867,
+                    "width" : 846,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -195,11 +195,11 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 328,
+                    "height" : 352,
                     "hidden" : false,
                     "anchorPoint" : {
-                      "pointX" : 0.5093425851929696,
-                      "pointY" : 0.41056912119795635
+                      "pointX" : 0.52198584085378807,
+                      "pointY" : 0.38257577202536841
                     }
                   },
                   "layers" : [
@@ -226,8 +226,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.056692394578313252,
-                        "textBaseline" : 1.1092002336173545,
+                        "textXHeight" : 0.05710994229771784,
+                        "textBaseline" : 1.1123565059941505,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -251,10 +251,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 437.10002136230469,
-                          "pointY" : 129.16667175292969
+                          "pointX" : 426.60002136230469,
+                          "pointY" : 125.16667175292969
                         },
-                        "width" : 867,
+                        "width" : 846,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -281,14 +281,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 249,
+                        "height" : 241,
                         "hidden" : true,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A68DCEA384992780E11FA5EB10174BC5"
+                      "texture" : "9DCF723043C111D1D9C1B02605DB1813"
                     }
                   ]
                 },
@@ -301,8 +301,8 @@ local_slide( {
                   ],
                   "texturedRectangle" : {
                     "singleTextureOpacity" : 1,
-                    "textXHeight" : 0.40332589285714282,
-                    "textBaseline" : 0.7831217261723119,
+                    "textXHeight" : 0.1699197048611111,
+                    "textBaseline" : 0.89547356428923408,
                     "isBackgroundTexture" : false,
                     "isVerticalText" : false,
                     "textColor" : [
@@ -326,10 +326,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 215.10002136230469,
-                      "pointY" : 315.16667175292969
+                      "pointX" : 413.60002136230469,
+                      "pointY" : 316.16667175292969
                     },
-                    "width" : 423,
+                    "width" : 820,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -356,14 +356,14 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 0,
-                    "height" : 35,
+                    "height" : 81,
                     "hidden" : true,
                     "anchorPoint" : {
                       "pointX" : 0.5,
                       "pointY" : 0.5
                     }
                   },
-                  "texture" : "5E0C7A2659B5468A2E78B9186285E923"
+                  "texture" : "BD99C81542745BF9FACDB41F94B1F386"
                 }
               ]
             },
@@ -886,10 +886,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 503.89997863769531,
-                      "pointY" : 413.33332824707031
+                      "pointX" : 493.39997863769531,
+                      "pointY" : 425.33332824707031
                     },
-                    "width" : 867,
+                    "width" : 846,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -916,7 +916,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 328,
+                    "height" : 352,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -934,8 +934,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.056692394578313252,
-                        "textBaseline" : 1.1092002336173545,
+                        "textXHeight" : 0.05710994229771784,
+                        "textBaseline" : 1.1123565059941505,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -959,10 +959,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 437.10002136230469,
-                          "pointY" : 129.16667175292969
+                          "pointX" : 426.60002136230469,
+                          "pointY" : 125.16667175292969
                         },
-                        "width" : 867,
+                        "width" : 846,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -989,14 +989,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 249,
+                        "height" : 241,
                         "hidden" : true,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A68DCEA384992780E11FA5EB10174BC5"
+                      "texture" : "9DCF723043C111D1D9C1B02605DB1813"
                     },
                     {
                       "animations" : [
@@ -1007,8 +1007,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.40332589285714282,
-                        "textBaseline" : 0.7831217261723119,
+                        "textXHeight" : 0.1699197048611111,
+                        "textBaseline" : 0.89547356428923408,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1032,10 +1032,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 215.10002136230469,
-                          "pointY" : 315.16667175292969
+                          "pointX" : 413.60002136230469,
+                          "pointY" : 316.16667175292969
                         },
-                        "width" : 423,
+                        "width" : 820,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1062,14 +1062,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 35,
+                        "height" : 81,
                         "hidden" : true,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5E0C7A2659B5468A2E78B9186285E923"
+                      "texture" : "BD99C81542745BF9FACDB41F94B1F386"
                     }
                   ]
                 }
@@ -1099,10 +1099,10 @@ local_slide( {
                 "rotation" : 0,
                 "scale" : 1,
                 "position" : {
-                  "pointX" : 503.89997863769531,
-                  "pointY" : 413.33332824707031
+                  "pointX" : 493.39997863769531,
+                  "pointY" : 425.33332824707031
                 },
-                "width" : 867,
+                "width" : 846,
                 "sublayerTransform" : [
                   1,
                   0,
@@ -1129,7 +1129,7 @@ local_slide( {
                 },
                 "opacity" : 1,
                 "edgeAntialiasingMask" : 251658240,
-                "height" : 328,
+                "height" : 352,
                 "hidden" : false,
                 "anchorPoint" : {
                   "pointX" : 0.5,
@@ -1147,8 +1147,8 @@ local_slide( {
                   ],
                   "texturedRectangle" : {
                     "singleTextureOpacity" : 1,
-                    "textXHeight" : 0.056692394578313252,
-                    "textBaseline" : 1.1092002336173545,
+                    "textXHeight" : 0.05710994229771784,
+                    "textBaseline" : 1.1123565059941505,
                     "isBackgroundTexture" : false,
                     "isVerticalText" : false,
                     "textColor" : [
@@ -1172,10 +1172,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 437.10002136230469,
-                      "pointY" : 129.16667175292969
+                      "pointX" : 426.60002136230469,
+                      "pointY" : 125.16667175292969
                     },
-                    "width" : 867,
+                    "width" : 846,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1202,14 +1202,14 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 0,
-                    "height" : 249,
+                    "height" : 241,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
                       "pointY" : 0.5
                     }
                   },
-                  "texture" : "A68DCEA384992780E11FA5EB10174BC5"
+                  "texture" : "9DCF723043C111D1D9C1B02605DB1813"
                 },
                 {
                   "animations" : [
@@ -1231,7 +1231,7 @@ local_slide( {
                       "pointX" : 441.60002136230469,
                       "pointY" : 134.66667175292969
                     },
-                    "width" : 867,
+                    "width" : 846,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1258,11 +1258,11 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 328,
+                    "height" : 352,
                     "hidden" : false,
                     "anchorPoint" : {
-                      "pointX" : 0.5093425851929696,
-                      "pointY" : 0.41056912119795635
+                      "pointX" : 0.52198584085378807,
+                      "pointY" : 0.38257577202536841
                     }
                   },
                   "layers" : [
@@ -1289,8 +1289,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.40332589285714282,
-                        "textBaseline" : 0.7831217261723119,
+                        "textXHeight" : 0.1699197048611111,
+                        "textBaseline" : 0.89547356428923408,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1314,10 +1314,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 215.10002136230469,
-                          "pointY" : 315.16667175292969
+                          "pointX" : 413.60002136230469,
+                          "pointY" : 316.16667175292969
                         },
-                        "width" : 423,
+                        "width" : 820,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -1344,14 +1344,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 35,
+                        "height" : 81,
                         "hidden" : true,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5E0C7A2659B5468A2E78B9186285E923"
+                      "texture" : "BD99C81542745BF9FACDB41F94B1F386"
                     }
                   ]
                 }
@@ -1371,68 +1371,14 @@ local_slide( {
           {
             "url" : "https:\/\/webodm.org\/",
             "targetRectangle" : {
-              "y" : 463.41776842541162,
-              "x" : 486.63841662406912,
-              "width" : 237.11015624999982,
-              "height" : 38.688889016045493
+              "y" : 457.30665601094563,
+              "x" : 478.12845402717602,
+              "width" : 231.18240234374986,
+              "height" : 37.546666504542031
             }
           }
         ],
         "accessibility" : [
-          {
-            "text" : "There are many ways to install ODM:",
-            "targetRectangle" : {
-              "y" : 253.17332816123962,
-              "x" : 93.782835190636774,
-              "width" : 452.82343749999995,
-              "height" : 37
-            }
-          },
-          {
-            "text" : "Docker (Windows, MacOS, Linux)",
-            "targetRectangle" : {
-              "y" : 286.47332727909088,
-              "x" : 130.63997912406921,
-              "width" : 365.03515624999989,
-              "height" : 38.688889016045437
-            }
-          },
-          {
-            "text" : "Web-based GUI called WebODM",
-            "targetRectangle" : {
-              "y" : 321.86221550835501,
-              "x" : 130.63997912406921,
-              "width" : 358.68671874999995,
-              "height" : 38.688889016045493
-            }
-          },
-          {
-            "text" : "Natively using Ubuntu 16.04 or later (or with Virtual Machine via vagrant)",
-            "targetRectangle" : {
-              "y" : 357.25110373761919,
-              "x" : 130.63997912406921,
-              "width" : 809.62499999999977,
-              "height" : 38.688889016045493
-            }
-          },
-          {
-            "text" : "Windows and Mac OS:",
-            "targetRectangle" : {
-              "y" : 428.0288801961475,
-              "x" : 130.63997912406921,
-              "width" : 248.73125000000005,
-              "height" : 38.688889016045437
-            }
-          },
-          {
-            "text" : "WebODM installer available: https:\/\/WebODM.org",
-            "targetRectangle" : {
-              "y" : 463.41776842541162,
-              "x" : 166.63997912406921,
-              "width" : 557.10859374999973,
-              "height" : 38.688889016045493
-            }
-          },
           {
             "text" : "Installation",
             "targetRectangle" : {
@@ -1440,6 +1386,60 @@ local_slide( {
               "x" : 74.239978551864624,
               "width" : 279.302734375,
               "height" : 76
+            }
+          },
+          {
+            "text" : "There are many ways to install ODM:",
+            "targetRectangle" : {
+              "y" : 253.17332816123962,
+              "x" : 93.294263621398386,
+              "width" : 441.50285156250004,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Docker (Windows, MacOS, Linux)",
+            "targetRectangle" : {
+              "y" : 285.57332730293274,
+              "x" : 130.1299774646759,
+              "width" : 355.90927734375003,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "Web-based GUI called WebODM",
+            "targetRectangle" : {
+              "y" : 319.91999304453532,
+              "x" : 130.1299774646759,
+              "width" : 349.71955078125001,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "Natively using Ubuntu 16.04 or later (or with Virtual Machine via vagrant)",
+            "targetRectangle" : {
+              "y" : 354.2666587861379,
+              "x" : 130.1299774646759,
+              "width" : 789.38437500000009,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "Windows and Mac OS:",
+            "targetRectangle" : {
+              "y" : 422.95999026934305,
+              "x" : 130.1299774646759,
+              "width" : 242.51296875000003,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "WebODM installer available: https:\/\/WebODM.org",
+            "targetRectangle" : {
+              "y" : 457.30665601094563,
+              "x" : 166.1299774646759,
+              "width" : 543.18087890624997,
+              "height" : 37.546666504542031
             }
           }
         ],
@@ -1938,10 +1938,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 503.89997863769531,
-                      "pointY" : 413.33332824707031
+                      "pointX" : 493.39997863769531,
+                      "pointY" : 425.33332824707031
                     },
-                    "width" : 867,
+                    "width" : 846,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -1968,7 +1968,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 328,
+                    "height" : 352,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -1986,8 +1986,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.056692394578313252,
-                        "textBaseline" : 1.1092002336173545,
+                        "textXHeight" : 0.05710994229771784,
+                        "textBaseline" : 1.1123565059941505,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2011,10 +2011,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 437.10002136230469,
-                          "pointY" : 129.16667175292969
+                          "pointX" : 426.60002136230469,
+                          "pointY" : 125.16667175292969
                         },
-                        "width" : 867,
+                        "width" : 846,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2041,14 +2041,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 249,
+                        "height" : 241,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A68DCEA384992780E11FA5EB10174BC5"
+                      "texture" : "9DCF723043C111D1D9C1B02605DB1813"
                     },
                     {
                       "animations" : [
@@ -2059,8 +2059,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.40332589285714282,
-                        "textBaseline" : 0.7831217261723119,
+                        "textXHeight" : 0.1699197048611111,
+                        "textBaseline" : 0.89547356428923408,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2084,10 +2084,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 215.10002136230469,
-                          "pointY" : 315.16667175292969
+                          "pointX" : 413.60002136230469,
+                          "pointY" : 316.16667175292969
                         },
-                        "width" : 423,
+                        "width" : 820,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -2114,14 +2114,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 35,
+                        "height" : 81,
                         "hidden" : true,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5E0C7A2659B5468A2E78B9186285E923"
+                      "texture" : "BD99C81542745BF9FACDB41F94B1F386"
                     }
                   ]
                 }
@@ -2391,7 +2391,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "1DE4ACF218030ACD3F5C5008AADC60B8"
+                      "texture" : "EF73514CD66636B090064F5F4A518319"
                     }
                   ]
                 }
@@ -2411,77 +2411,41 @@ local_slide( {
           {
             "url" : "https:\/\/webodm.org\/",
             "targetRectangle" : {
-              "y" : 463.41776842541162,
-              "x" : 486.63841662406912,
-              "width" : 237.11015624999982,
-              "height" : 38.688889016045493
+              "y" : 457.30665601094563,
+              "x" : 478.12845402717602,
+              "width" : 231.18240234374986,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "url" : "http:\/\/OpenDroneMap.org",
+            "targetRectangle" : {
+              "y" : 525.99998749415079,
+              "x" : 243.10072846514842,
+              "width" : 241.66441406250001,
+              "height" : 47.093333009084063
+            }
+          },
+          {
+            "url" : "http:\/\/docs.opendronemap.org",
+            "targetRectangle" : {
+              "y" : 525.99998749415079,
+              "x" : 543.50965424639844,
+              "width" : 296.15396484374958,
+              "height" : 47.093333009084063
+            }
+          },
+          {
+            "url" : "http:\/\/community.opendronemap.org",
+            "targetRectangle" : {
+              "y" : 569.49331964492796,
+              "x" : 93.294263621398386,
+              "width" : 375.43517578125,
+              "height" : 36
             }
           }
         ],
         "accessibility" : [
-          {
-            "text" : "There are many ways to install ODM:",
-            "targetRectangle" : {
-              "y" : 253.17332816123962,
-              "x" : 93.782835190636774,
-              "width" : 452.82343749999995,
-              "height" : 37
-            }
-          },
-          {
-            "text" : "Docker (Windows, MacOS, Linux)",
-            "targetRectangle" : {
-              "y" : 286.47332727909088,
-              "x" : 130.63997912406921,
-              "width" : 365.03515624999989,
-              "height" : 38.688889016045437
-            }
-          },
-          {
-            "text" : "Web-based GUI called WebODM",
-            "targetRectangle" : {
-              "y" : 321.86221550835501,
-              "x" : 130.63997912406921,
-              "width" : 358.68671874999995,
-              "height" : 38.688889016045493
-            }
-          },
-          {
-            "text" : "Natively using Ubuntu 16.04 or later (or with Virtual Machine via vagrant)",
-            "targetRectangle" : {
-              "y" : 357.25110373761919,
-              "x" : 130.63997912406921,
-              "width" : 809.62499999999977,
-              "height" : 38.688889016045493
-            }
-          },
-          {
-            "text" : "Windows and Mac OS:",
-            "targetRectangle" : {
-              "y" : 428.0288801961475,
-              "x" : 130.63997912406921,
-              "width" : 248.73125000000005,
-              "height" : 38.688889016045437
-            }
-          },
-          {
-            "text" : "WebODM installer available: https:\/\/WebODM.org",
-            "targetRectangle" : {
-              "y" : 463.41776842541162,
-              "x" : 166.63997912406921,
-              "width" : 557.10859374999973,
-              "height" : 38.688889016045493
-            }
-          },
-          {
-            "text" : "See project: OpenDroneMap.org",
-            "targetRectangle" : {
-              "y" : 534.19554488393999,
-              "x" : 93.782835190636774,
-              "width" : 401.50859375000016,
-              "height" : 48.377778032090987
-            }
-          },
           {
             "text" : "Installation",
             "targetRectangle" : {
@@ -2489,6 +2453,69 @@ local_slide( {
               "x" : 74.239978551864624,
               "width" : 279.302734375,
               "height" : 76
+            }
+          },
+          {
+            "text" : "There are many ways to install ODM:",
+            "targetRectangle" : {
+              "y" : 253.17332816123962,
+              "x" : 93.294263621398386,
+              "width" : 441.50285156250004,
+              "height" : 36
+            }
+          },
+          {
+            "text" : "Docker (Windows, MacOS, Linux)",
+            "targetRectangle" : {
+              "y" : 285.57332730293274,
+              "x" : 130.1299774646759,
+              "width" : 355.90927734375003,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "Web-based GUI called WebODM",
+            "targetRectangle" : {
+              "y" : 319.91999304453532,
+              "x" : 130.1299774646759,
+              "width" : 349.71955078125001,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "Natively using Ubuntu 16.04 or later (or with Virtual Machine via vagrant)",
+            "targetRectangle" : {
+              "y" : 354.2666587861379,
+              "x" : 130.1299774646759,
+              "width" : 789.38437500000009,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "Windows and Mac OS:",
+            "targetRectangle" : {
+              "y" : 422.95999026934305,
+              "x" : 130.1299774646759,
+              "width" : 242.51296875000003,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "WebODM installer available: https:\/\/WebODM.org",
+            "targetRectangle" : {
+              "y" : 457.30665601094563,
+              "x" : 166.1299774646759,
+              "width" : 543.18087890624997,
+              "height" : 37.546666504542031
+            }
+          },
+          {
+            "text" : "See project: OpenDroneMap.org and docs.opendronemap.org and community.opendronemap.org",
+            "targetRectangle" : {
+              "y" : 525.99998749415079,
+              "x" : 93.294263621398386,
+              "width" : 805.11386718749998,
+              "height" : 79.493332150777178
             }
           }
         ],
@@ -2988,10 +3015,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 503.89997863769531,
-                      "pointY" : 413.33332824707031
+                      "pointX" : 493.39997863769531,
+                      "pointY" : 425.33332824707031
                     },
-                    "width" : 867,
+                    "width" : 846,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -3018,7 +3045,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 328,
+                    "height" : 352,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -3035,8 +3062,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.056692394578313252,
-                        "textBaseline" : 1.1092002336173545,
+                        "textXHeight" : 0.05710994229771784,
+                        "textBaseline" : 1.1123565059941505,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -3060,10 +3087,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 437.10002136230469,
-                          "pointY" : 129.16667175292969
+                          "pointX" : 426.60002136230469,
+                          "pointY" : 125.16667175292969
                         },
-                        "width" : 867,
+                        "width" : 846,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -3090,14 +3117,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 249,
+                        "height" : 241,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A68DCEA384992780E11FA5EB10174BC5"
+                      "texture" : "9DCF723043C111D1D9C1B02605DB1813"
                     },
                     {
                       "animations" : [
@@ -3108,8 +3135,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.40332589285714282,
-                        "textBaseline" : 0.7831217261723119,
+                        "textXHeight" : 0.1699197048611111,
+                        "textBaseline" : 0.89547356428923408,
                         "isBackgroundTexture" : false,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -3133,10 +3160,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 215.10002136230469,
-                          "pointY" : 315.16667175292969
+                          "pointX" : 413.60002136230469,
+                          "pointY" : 316.16667175292969
                         },
-                        "width" : 423,
+                        "width" : 820,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -3163,14 +3190,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 35,
+                        "height" : 81,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5E0C7A2659B5468A2E78B9186285E923"
+                      "texture" : "BD99C81542745BF9FACDB41F94B1F386"
                     }
                   ]
                 }

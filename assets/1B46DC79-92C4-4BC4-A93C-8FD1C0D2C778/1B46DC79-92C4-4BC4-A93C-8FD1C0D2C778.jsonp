@@ -370,15 +370,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Origins",
-            "targetRectangle" : {
-              "y" : 271.6786687374115,
-              "x" : 429.46991324424744,
-              "width" : 161.18819335937496,
-              "height" : 69
-            }
-          },
-          {
             "text" : "Computer Vision",
             "targetRectangle" : {
               "y" : 366.01211905479431,
@@ -403,6 +394,15 @@ local_slide( {
               "x" : 25.144667148590088,
               "width" : 216.00354096969878,
               "height" : 52.415084659665979
+            }
+          },
+          {
+            "text" : "Origins",
+            "targetRectangle" : {
+              "y" : 271.6786687374115,
+              "x" : 429.46991324424744,
+              "width" : 161.18819335937496,
+              "height" : 69
             }
           }
         ],

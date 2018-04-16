@@ -356,21 +356,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "DTM Extraction",
-            "targetRectangle" : {
-              "y" : 284.10669302940369,
-              "x" : 248.29004669189453,
-              "width" : 527.419921875,
-              "height" : 103
-            }
-          },
-          {
             "text" : "Near future",
             "targetRectangle" : {
               "y" : 402.37335562705994,
               "x" : 431.74805450439453,
               "width" : 160.50390625,
               "height" : 41
+            }
+          },
+          {
+            "text" : "DTM Extraction",
+            "targetRectangle" : {
+              "y" : 284.10669302940369,
+              "x" : 248.29004669189453,
+              "width" : 527.419921875,
+              "height" : 103
             }
           }
         ],

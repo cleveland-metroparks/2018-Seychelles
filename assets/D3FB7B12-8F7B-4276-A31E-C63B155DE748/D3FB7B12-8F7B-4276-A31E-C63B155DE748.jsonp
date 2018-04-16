@@ -30,23 +30,9 @@ local_slide( {
         "width" : 377,
         "height" : 187
       },
-      "5E6AEC9503AFD95BBC2EA0BEC7E1A2DE" : {
+      "A829E50163C38A3C4191B38B37CCD53D" : {
         "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/D3FB7B12-8F7B-4276-A31E-C63B155DE748.pdf"
-        },
-        "width" : 219,
-        "height" : 55
-      },
-      "DB8451458D98EFA7506DBEBC2B1323F0" : {
-        "type" : "texture",
-        "index" : 0,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -58,9 +44,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "A829E50163C38A3C4191B38B37CCD53D" : {
+      "DB8451458D98EFA7506DBEBC2B1323F0" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -85,6 +71,20 @@ local_slide( {
         },
         "width" : 1024,
         "height" : 768
+      },
+      "6BE9F4BC5F1DDE832FA53AD82B8B0C8D" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/D3FB7B12-8F7B-4276-A31E-C63B155DE748.pdf"
+        },
+        "width" : 219,
+        "height" : 55
       }
     },
     "events" : [
@@ -370,6 +370,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Picture 6",
+            "targetRectangle" : {
+              "y" : 119.11482644081116,
+              "x" : 25.144667148590088,
+              "width" : 216.00354096969878,
+              "height" : 52.415084659665979
+            }
+          },
+          {
             "text" : "Ecology",
             "targetRectangle" : {
               "y" : 366.01205801963806,
@@ -394,15 +403,6 @@ local_slide( {
               "x" : 356.61853136573518,
               "width" : 358.87437499999999,
               "height" : 96.968887905544705
-            }
-          },
-          {
-            "text" : "Picture 6",
-            "targetRectangle" : {
-              "y" : 119.11482644081116,
-              "x" : 25.144667148590088,
-              "width" : 216.00354096969878,
-              "height" : 52.415084659665979
             }
           },
           {
@@ -1201,7 +1201,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5E6AEC9503AFD95BBC2EA0BEC7E1A2DE"
+                      "texture" : "6BE9F4BC5F1DDE832FA53AD82B8B0C8D"
                     }
                   ]
                 }

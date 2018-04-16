@@ -356,21 +356,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "i.e. Good data in = Good data out",
-            "targetRectangle" : {
-              "y" : 402.37335562705994,
-              "x" : 282.99805450439453,
-              "width" : 458.00390625,
-              "height" : 41
-            }
-          },
-          {
             "text" : "Minimum and Optimum Flying Recommendations",
             "targetRectangle" : {
               "y" : 216.10669302940369,
               "x" : 135.66852325439459,
               "width" : 755.80312499999991,
               "height" : 170.99999785423279
+            }
+          },
+          {
+            "text" : "i.e. Good data in = Good data out",
+            "targetRectangle" : {
+              "y" : 402.37335562705994,
+              "x" : 282.99805450439453,
+              "width" : 458.00390625,
+              "height" : 41
             }
           }
         ],

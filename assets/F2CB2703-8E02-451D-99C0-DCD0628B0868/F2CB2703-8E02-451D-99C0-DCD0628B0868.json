@@ -1603,21 +1603,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Large-scale pipeline or breaking datasets into bite-size pieces",
-          "targetRectangle" : {
-            "y" : 154.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 869.05242040560665,
-            "height" : 55.000000362240826
-          }
-        },
-        {
           "text" : "Split large numbers of images into smaller groups",
           "targetRectangle" : {
             "y" : 280.04730582237244,
             "x" : 106.29638779163361,
             "width" : 759.6474609375,
             "height" : 46
+          }
+        },
+        {
+          "text" : "Large-scale pipeline or breaking datasets into bite-size pieces",
+          "targetRectangle" : {
+            "y" : 154.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 869.05242040560665,
+            "height" : 55.000000362240826
           }
         }
       ],
@@ -2748,15 +2748,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Large-scale pipeline or breaking datasets into bite-size pieces",
-          "targetRectangle" : {
-            "y" : 154.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 869.05242040560665,
-            "height" : 55.000000362240826
-          }
-        },
-        {
           "text" : "Split large numbers of images into smaller groups",
           "targetRectangle" : {
             "y" : 280.04730582237244,
@@ -2772,6 +2763,15 @@
             "x" : 106.29638779163361,
             "width" : 732.798828125,
             "height" : 60.222222328186035
+          }
+        },
+        {
+          "text" : "Large-scale pipeline or breaking datasets into bite-size pieces",
+          "targetRectangle" : {
+            "y" : 154.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 869.05242040560665,
+            "height" : 55.000000362240826
           }
         }
       ],
@@ -3817,15 +3817,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Large-scale pipeline or breaking datasets into bite-size pieces",
-          "targetRectangle" : {
-            "y" : 154.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 869.05242040560665,
-            "height" : 55.000000362240826
-          }
-        },
-        {
           "text" : "Split large numbers of images into smaller groups",
           "targetRectangle" : {
             "y" : 280.04730582237244,
@@ -3850,6 +3841,15 @@
             "x" : 106.29638779163361,
             "width" : 828.541015625,
             "height" : 101.62222123146057
+          }
+        },
+        {
+          "text" : "Large-scale pipeline or breaking datasets into bite-size pieces",
+          "targetRectangle" : {
+            "y" : 154.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 869.05242040560665,
+            "height" : 55.000000362240826
           }
         }
       ],

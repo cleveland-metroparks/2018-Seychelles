@@ -393,12 +393,12 @@ local_slide( {
             }
           },
           {
-            "text" : "https:\/\/photoshopstar.com\/graphics\/wall-e-cartoon-style-wallpaper\/",
+            "text" : "Questions you may be asking:",
             "targetRectangle" : {
-              "y" : 649.98996329307556,
-              "x" : 598.07028555870056,
-              "width" : 422.54296875,
-              "height" : 44
+              "y" : 144.50665640830994,
+              "x" : 74.239978551864624,
+              "width" : 746.1494140625,
+              "height" : 76
             }
           },
           {
@@ -411,12 +411,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Questions you may be asking:",
+            "text" : "https:\/\/photoshopstar.com\/graphics\/wall-e-cartoon-style-wallpaper\/",
             "targetRectangle" : {
-              "y" : 144.50665640830994,
-              "x" : 74.239978551864624,
-              "width" : 746.1494140625,
-              "height" : 76
+              "y" : 649.98996329307556,
+              "x" : 598.07028555870056,
+              "width" : 422.54296875,
+              "height" : 44
             }
           }
         ],

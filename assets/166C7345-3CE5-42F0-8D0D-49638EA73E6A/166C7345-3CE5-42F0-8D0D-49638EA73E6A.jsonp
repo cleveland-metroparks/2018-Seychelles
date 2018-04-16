@@ -30,7 +30,7 @@ local_slide( {
         "width" : 539,
         "height" : 255
       },
-      "0CE8293A772A88AA0F18280498DD1A8D" : {
+      "DB8451458D98EFA7506DBEBC2B1323F0" : {
         "type" : "texture",
         "index" : 0,
         "assetRequest" : {
@@ -641,7 +641,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "0CE8293A772A88AA0F18280498DD1A8D"
+                      "texture" : "DB8451458D98EFA7506DBEBC2B1323F0"
                     }
                   ]
                 }

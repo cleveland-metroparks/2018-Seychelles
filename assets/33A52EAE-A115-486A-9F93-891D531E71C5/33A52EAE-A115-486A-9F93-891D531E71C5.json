@@ -1,6 +1,49 @@
 {
   "assets" : {
-    "EA43DED10EF526D0609CD9A1472B3A64" : {
+    "964D66F8CA0D45C0B0BC03F80A7A3356" : {
+      "url" : {
+        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
+      },
+      "height" : 544.66668701171875,
+      "movie" : "media2.mp4-0.0000-64.6000",
+      "width" : 1024,
+      "type" : "texture",
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "index" : 3
+    },
+    "B0474278C544C200710305C5802CCCAD" : {
+      "type" : "texture",
+      "index" : 5,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "A2A8C7A61AB1905AD7440CAB54271A97" : {
+      "type" : "texture",
+      "index" : 4,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
+    },
+    "FD0626CB3CD89F599F954169A0B3477A" : {
       "type" : "texture",
       "index" : 1,
       "assetRequest" : {
@@ -13,6 +56,20 @@
       },
       "width" : 1027,
       "height" : 548
+    },
+    "DB8451458D98EFA7506DBEBC2B1323F0" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
+      },
+      "width" : 1024,
+      "height" : 768
     },
     "media2.mp4-0.0000-64.6000" : {
       "type" : "video",
@@ -29,9 +86,9 @@
       "width" : 1940,
       "height" : 1032
     },
-    "A2A8C7A61AB1905AD7440CAB54271A97" : {
+    "EA43DED10EF526D0609CD9A1472B3A64" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 2,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -40,51 +97,8 @@
       "url" : {
         "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
       },
-      "width" : 1024,
-      "height" : 768
-    },
-    "DB8451458D98EFA7506DBEBC2B1323F0" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
-    },
-    "964D66F8CA0D45C0B0BC03F80A7A3356" : {
-      "url" : {
-        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
-      },
-      "height" : 544.66668701171875,
-      "movie" : "media2.mp4-0.0000-64.6000",
-      "width" : 1024,
-      "type" : "texture",
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "index" : 2
-    },
-    "B0474278C544C200710305C5802CCCAD" : {
-      "type" : "texture",
-      "index" : 4,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/33A52EAE-A115-486A-9F93-891D531E71C5.pdf"
-      },
-      "width" : 1024,
-      "height" : 768
+      "width" : 1027,
+      "height" : 548
     }
   },
   "events" : [
@@ -307,7 +321,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EA43DED10EF526D0609CD9A1472B3A64"
+                    "texture" : "FD0626CB3CD89F599F954169A0B3477A"
                   }
                 ]
               }
@@ -943,7 +957,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EA43DED10EF526D0609CD9A1472B3A64"
+                    "texture" : "FD0626CB3CD89F599F954169A0B3477A"
                   }
                 ]
               }
@@ -1171,7 +1185,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EA43DED10EF526D0609CD9A1472B3A64"
+                    "texture" : "FD0626CB3CD89F599F954169A0B3477A"
                   }
                 ]
               }
@@ -1605,7 +1619,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EA43DED10EF526D0609CD9A1472B3A64"
+                    "texture" : "FD0626CB3CD89F599F954169A0B3477A"
                   }
                 ]
               }
@@ -2309,7 +2323,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "EA43DED10EF526D0609CD9A1472B3A64"
+                    "texture" : "FD0626CB3CD89F599F954169A0B3477A"
                   }
                 ]
               }
