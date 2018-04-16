@@ -354,6 +354,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Photogrammetry Process",
+          "targetRectangle" : {
+            "y" : 144.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 634.6220703125,
+            "height" : 76
+          }
+        },
+        {
           "text" : "Structure from Motion",
           "targetRectangle" : {
             "y" : 253.17332816123962,
@@ -396,15 +405,6 @@
             "x" : 99.739978551864624,
             "width" : 327.1337890625,
             "height" : 55.222222328186035
-          }
-        },
-        {
-          "text" : "Photogrammetry Process",
-          "targetRectangle" : {
-            "y" : 144.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 634.6220703125,
-            "height" : 76
           }
         }
       ],

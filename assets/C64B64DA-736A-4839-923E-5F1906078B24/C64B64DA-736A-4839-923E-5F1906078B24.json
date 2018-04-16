@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Texturing",
-          "targetRectangle" : {
-            "y" : 144.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 232.5908203125,
-            "height" : 76
-          }
-        },
-        {
           "text" : "Content Placeholder 3",
           "targetRectangle" : {
             "y" : 222.16255187988281,
             "x" : 111.67477416992188,
             "width" : 800.65045166015625,
             "height" : 447.2967529296875
+          }
+        },
+        {
+          "text" : "Texturing",
+          "targetRectangle" : {
+            "y" : 144.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 232.5908203125,
+            "height" : 76
           }
         }
       ],

@@ -30,9 +30,9 @@ local_slide( {
         "width" : 441,
         "height" : 254
       },
-      "A829E50163C38A3C4191B38B37CCD53D" : {
+      "0A4ACE860C3C0ADF094E67DEB9621852" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -58,9 +58,9 @@ local_slide( {
         "width" : 1024,
         "height" : 768
       },
-      "0A4ACE860C3C0ADF094E67DEB9621852" : {
+      "DB8451458D98EFA7506DBEBC2B1323F0" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -379,15 +379,6 @@ local_slide( {
             }
           },
           {
-            "text" : "ODM and the photogrammetric process",
-            "targetRectangle" : {
-              "y" : 149.50665640830994,
-              "x" : 74.239978551864624,
-              "width" : 870.94136718749985,
-              "height" : 65
-            }
-          },
-          {
             "text" : "Structure from Motion",
             "targetRectangle" : {
               "y" : 253.17332816123962,
@@ -430,6 +421,15 @@ local_slide( {
               "x" : 99.739978551864624,
               "width" : 327.1337890625,
               "height" : 55.222222328186035
+            }
+          },
+          {
+            "text" : "ODM and the photogrammetric process",
+            "targetRectangle" : {
+              "y" : 149.50665640830994,
+              "x" : 74.239978551864624,
+              "width" : 870.94136718749985,
+              "height" : 65
             }
           }
         ],
@@ -664,7 +664,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A829E50163C38A3C4191B38B37CCD53D"
+                      "texture" : "DB8451458D98EFA7506DBEBC2B1323F0"
                     }
                   ]
                 }

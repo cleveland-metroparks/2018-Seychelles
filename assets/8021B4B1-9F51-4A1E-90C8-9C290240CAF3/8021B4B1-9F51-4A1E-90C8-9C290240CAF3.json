@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Point Cloud from Matching",
-          "targetRectangle" : {
-            "y" : 91.357867956161499,
-            "x" : 74.239978551864624,
-            "width" : 676.3388671875,
-            "height" : 76
-          }
-        },
-        {
           "text" : "Picture 3",
           "targetRectangle" : {
             "y" : 287.15151977539062,
             "x" : 59.988887786865234,
             "width" : 893.611083984375,
             "height" : 384.84848022460938
+          }
+        },
+        {
+          "text" : "Point Cloud from Matching",
+          "targetRectangle" : {
+            "y" : 91.357867956161499,
+            "x" : 74.239978551864624,
+            "width" : 676.3388671875,
+            "height" : 76
           }
         }
       ],

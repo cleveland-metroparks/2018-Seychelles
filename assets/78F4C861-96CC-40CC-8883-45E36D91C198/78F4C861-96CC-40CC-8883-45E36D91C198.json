@@ -137,7 +137,7 @@
               "rotation" : 0,
               "scale" : 1,
               "position" : {
-                "pointX" : 743.86984687868085,
+                "pointX" : 743.869873046875,
                 "pointY" : 385.49999987756127
               },
               "width" : 435,
@@ -193,7 +193,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : -14.369846878680846,
+                    "pointX" : -14.369873046875,
                     "pointY" : 384.00000012243873
                   },
                   "width" : 435,
@@ -226,7 +226,7 @@
                   "height" : 771,
                   "hidden" : false,
                   "anchorPoint" : {
-                    "pointX" : -0.033034130755588149,
+                    "pointX" : -0.03303419091235632,
                     "pointY" : 0.49805447486697629
                   }
                 },
@@ -298,7 +298,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 216.13015312131915,
+                        "pointX" : 216.130126953125,
                         "pointY" : 383.50000012243873
                       },
                       "width" : 435,
@@ -361,7 +361,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 742.36984687868085,
+                    "pointX" : 742.369873046875,
                     "pointY" : 383.99999987756127
                   },
                   "width" : 432,
@@ -428,7 +428,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 216.13015312131915,
+                        "pointX" : 216.130126953125,
                         "pointY" : 383.50000012243873
                       },
                       "width" : 435,
@@ -534,7 +534,7 @@
               ],
               "movie" : {
                 "startTime" : 0,
-                "volume" : 0.14404296875,
+                "volume" : 0,
                 "endTime" : 17.14666748046875,
                 "isStreaming" : false,
                 "isAudioOnly" : false,
@@ -560,8 +560,8 @@
         {
           "text" : "Khadija Abdulla Ali",
           "targetRectangle" : {
-            "y" : 653.964842509606,
-            "x" : 18.758235324538347,
+            "y" : 653.96481680870056,
+            "x" : 18.758235692977905,
             "width" : 333.65354492187504,
             "height" : 54
           }
@@ -569,8 +569,8 @@
         {
           "text" : "Zanzibar Mapping Initiative",
           "targetRectangle" : {
-            "y" : 702.56484122214567,
-            "x" : 18.758235324538347,
+            "y" : 702.56481552124023,
+            "x" : 18.758235692977905,
             "width" : 486.54136718750004,
             "height" : 54
           }
@@ -884,7 +884,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 743.86984687868085,
+                    "pointX" : 743.869873046875,
                     "pointY" : 385.49999987756127
                   },
                   "width" : 435,
@@ -951,7 +951,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 216.13015312131915,
+                        "pointX" : 216.130126953125,
                         "pointY" : 383.50000012243873
                       },
                       "width" : 435,
@@ -1066,8 +1066,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 258.41823541036905,
-                    "pointY" : 695.12484259543669
+                    "pointX" : 258.41823577880859,
+                    "pointY" : 695.12481689453125
                   },
                   "width" : 487,
                   "sublayerTransform" : [
@@ -1114,7 +1114,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.22712141927083335,
-                      "textBaseline" : 0.88603404309328526,
+                      "textBaseline" : 0.88603375752766922,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1138,8 +1138,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 246.58176458963095,
-                        "pointY" : 59.875157404563311
+                        "pointX" : 246.58176422119141,
+                        "pointY" : 59.87518310546875
                       },
                       "width" : 487,
                       "sublayerTransform" : [
@@ -1468,8 +1468,8 @@
         {
           "text" : "Khadija Abdulla Ali",
           "targetRectangle" : {
-            "y" : 653.964842509606,
-            "x" : 18.758235324538347,
+            "y" : 653.96481680870056,
+            "x" : 18.758235692977905,
             "width" : 333.65354492187504,
             "height" : 54
           }
@@ -1477,8 +1477,8 @@
         {
           "text" : "Zanzibar Mapping Initiative",
           "targetRectangle" : {
-            "y" : 702.56484122214567,
-            "x" : 18.758235324538347,
+            "y" : 702.56481552124023,
+            "x" : 18.758235692977905,
             "width" : 486.54136718750004,
             "height" : 54
           }
@@ -1793,7 +1793,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 743.86984687868085,
+                    "pointX" : 743.869873046875,
                     "pointY" : 385.49999987756127
                   },
                   "width" : 435,
@@ -1859,7 +1859,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 216.13015312131915,
+                        "pointX" : 216.130126953125,
                         "pointY" : 383.50000012243873
                       },
                       "width" : 435,
@@ -1974,8 +1974,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 258.41823541036905,
-                    "pointY" : 695.12484259543669
+                    "pointX" : 258.41823577880859,
+                    "pointY" : 695.12481689453125
                   },
                   "width" : 487,
                   "sublayerTransform" : [
@@ -2022,7 +2022,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.22712141927083335,
-                      "textBaseline" : 0.88603404309328526,
+                      "textBaseline" : 0.88603375752766922,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -2046,8 +2046,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 246.58176458963095,
-                        "pointY" : 59.875157404563311
+                        "pointX" : 246.58176422119141,
+                        "pointY" : 59.87518310546875
                       },
                       "width" : 487,
                       "sublayerTransform" : [

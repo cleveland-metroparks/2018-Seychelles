@@ -354,15 +354,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Near-term improvements",
-          "targetRectangle" : {
-            "y" : 144.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 640.46484375,
-            "height" : 76
-          }
-        },
-        {
           "text" : "Quality reporting and robustness improvements",
           "targetRectangle" : {
             "y" : 294.57332706451416,
@@ -387,6 +378,15 @@
             "x" : 98.668549656867981,
             "width" : 303.92578125,
             "height" : 60.222222328186035
+          }
+        },
+        {
+          "text" : "Near-term improvements",
+          "targetRectangle" : {
+            "y" : 144.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 640.46484375,
+            "height" : 76
           }
         }
       ],

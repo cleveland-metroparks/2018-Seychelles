@@ -384,17 +384,17 @@ local_slide( {
           {
             "text" : "Minimum for 2.5D",
             "targetRectangle" : {
-              "y" : 98.95423483848576,
-              "x" : 74.239978551864681,
+              "y" : 98.954234838485718,
+              "x" : 74.239978551864624,
               "width" : 434.5388671875001,
-              "height" : 71.000000000000014
+              "height" : 71
             }
           },
           {
             "text" : "(Aerials and Digital Terrain \/ Surface)",
             "targetRectangle" : {
-              "y" : 162.85423314571386,
-              "x" : 74.239978551864681,
+              "y" : 162.85423314571381,
+              "x" : 74.239978551864624,
               "width" : 863.0163867187498,
               "height" : 71
             }
@@ -708,8 +708,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 500.39997863769537,
-                      "pointY" : 154.11423492431646
+                      "pointX" : 500.39997863769531,
+                      "pointY" : 154.11423492431641
                     },
                     "width" : 860,
                     "sublayerTransform" : [
@@ -756,7 +756,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.22934437897245763,
-                        "textBaseline" : 0.89154971151028684,
+                        "textBaseline" : 0.8915497115102865,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -780,8 +780,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 435.60002136230463,
-                          "pointY" : 76.885765075683551
+                          "pointX" : 435.60002136230469,
+                          "pointY" : 76.885765075683594
                         },
                         "width" : 860,
                         "sublayerTransform" : [
@@ -1381,30 +1381,30 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Minimum for 2.5D",
-            "targetRectangle" : {
-              "y" : 98.95423483848576,
-              "x" : 74.239978551864681,
-              "width" : 434.5388671875001,
-              "height" : 71.000000000000014
-            }
-          },
-          {
-            "text" : "(Aerials and Digital Terrain \/ Surface)",
-            "targetRectangle" : {
-              "y" : 162.85423314571386,
-              "x" : 74.239978551864681,
-              "width" : 863.0163867187498,
-              "height" : 71
-            }
-          },
-          {
             "text" : "Fly with 70+% overlap and sidelap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
               "x" : 98.668549656867981,
               "width" : 522.7041015625,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Minimum for 2.5D",
+            "targetRectangle" : {
+              "y" : 98.954234838485718,
+              "x" : 74.239978551864624,
+              "width" : 434.5388671875001,
+              "height" : 71
+            }
+          },
+          {
+            "text" : "(Aerials and Digital Terrain \/ Surface)",
+            "targetRectangle" : {
+              "y" : 162.85423314571381,
+              "x" : 74.239978551864624,
+              "width" : 863.0163867187498,
+              "height" : 71
             }
           }
         ],
@@ -1716,8 +1716,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 500.39997863769537,
-                      "pointY" : 154.11423492431646
+                      "pointX" : 500.39997863769531,
+                      "pointY" : 154.11423492431641
                     },
                     "width" : 860,
                     "sublayerTransform" : [
@@ -1764,7 +1764,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.22934437897245763,
-                        "textBaseline" : 0.89154971151028684,
+                        "textBaseline" : 0.8915497115102865,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -1788,8 +1788,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 435.60002136230463,
-                          "pointY" : 76.885765075683551
+                          "pointX" : 435.60002136230469,
+                          "pointY" : 76.885765075683594
                         },
                         "width" : 860,
                         "sublayerTransform" : [
@@ -2377,24 +2377,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Minimum for 2.5D",
-            "targetRectangle" : {
-              "y" : 98.95423483848576,
-              "x" : 74.239978551864681,
-              "width" : 434.5388671875001,
-              "height" : 71.000000000000014
-            }
-          },
-          {
-            "text" : "(Aerials and Digital Terrain \/ Surface)",
-            "targetRectangle" : {
-              "y" : 162.85423314571386,
-              "x" : 74.239978551864681,
-              "width" : 863.0163867187498,
-              "height" : 71
-            }
-          },
-          {
             "text" : "Fly with 70+% overlap and sidelap",
             "targetRectangle" : {
               "y" : 253.17332816123962,
@@ -2410,6 +2392,24 @@ local_slide( {
               "x" : 98.668549656867981,
               "width" : 620.24609375,
               "height" : 60.222222328186035
+            }
+          },
+          {
+            "text" : "Minimum for 2.5D",
+            "targetRectangle" : {
+              "y" : 98.954234838485718,
+              "x" : 74.239978551864624,
+              "width" : 434.5388671875001,
+              "height" : 71
+            }
+          },
+          {
+            "text" : "(Aerials and Digital Terrain \/ Surface)",
+            "targetRectangle" : {
+              "y" : 162.85423314571381,
+              "x" : 74.239978551864624,
+              "width" : 863.0163867187498,
+              "height" : 71
             }
           }
         ],
@@ -2722,8 +2722,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 500.39997863769537,
-                      "pointY" : 154.11423492431646
+                      "pointX" : 500.39997863769531,
+                      "pointY" : 154.11423492431641
                     },
                     "width" : 860,
                     "sublayerTransform" : [
@@ -2770,7 +2770,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.22934437897245763,
-                        "textBaseline" : 0.89154971151028684,
+                        "textBaseline" : 0.8915497115102865,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -2794,8 +2794,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 435.60002136230463,
-                          "pointY" : 76.885765075683551
+                          "pointX" : 435.60002136230469,
+                          "pointY" : 76.885765075683594
                         },
                         "width" : 860,
                         "sublayerTransform" : [

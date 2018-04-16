@@ -356,21 +356,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Content Placeholder 4",
-            "targetRectangle" : {
-              "y" : 108.34736633300781,
-              "x" : 52.039619445800781,
-              "width" : 921.60003662109375,
-              "height" : 489.02444458007812
-            }
-          },
-          {
             "text" : "Midpines, flown by NextGen Air Transportation Center (NGAT) access to the data through collaboration with Center for Geospatial Analytics at NCSU",
             "targetRectangle" : {
               "y" : 613.44882559776306,
               "x" : 39.01006293296814,
               "width" : 1006.16015625,
               "height" : 58
+            }
+          },
+          {
+            "text" : "Content Placeholder 4",
+            "targetRectangle" : {
+              "y" : 108.34736633300781,
+              "x" : 52.039619445800781,
+              "width" : 921.60003662109375,
+              "height" : 489.02444458007812
             }
           }
         ],

@@ -1370,15 +1370,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Quality reporting and robustness improvements",
-          "targetRectangle" : {
-            "y" : 154.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 869.1721874999995,
-            "height" : 55
-          }
-        },
-        {
           "text" : "Add reporting system to OpenSfM",
           "targetRectangle" : {
             "y" : 253.17332816123962,
@@ -1403,6 +1394,15 @@
             "x" : 169.92797764968873,
             "width" : 718.46660156249993,
             "height" : 96.284442951414292
+          }
+        },
+        {
+          "text" : "Quality reporting and robustness improvements",
+          "targetRectangle" : {
+            "y" : 154.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 869.1721874999995,
+            "height" : 55
           }
         }
       ],
@@ -2375,15 +2375,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Quality reporting and robustness improvements",
-          "targetRectangle" : {
-            "y" : 154.50665640830994,
-            "x" : 74.239978551864624,
-            "width" : 869.1721874999995,
-            "height" : 55
-          }
-        },
-        {
           "text" : "Add reporting system to OpenSfM",
           "targetRectangle" : {
             "y" : 253.17332816123962,
@@ -2444,6 +2435,15 @@
             "x" : 134.20997786521912,
             "width" : 538.07656249999968,
             "height" : 45.684444477293255
+          }
+        },
+        {
+          "text" : "Quality reporting and robustness improvements",
+          "targetRectangle" : {
+            "y" : 154.50665640830994,
+            "x" : 74.239978551864624,
+            "width" : 869.1721874999995,
+            "height" : 55
           }
         }
       ],

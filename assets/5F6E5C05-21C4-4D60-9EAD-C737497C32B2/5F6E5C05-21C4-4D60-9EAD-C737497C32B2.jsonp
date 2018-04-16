@@ -370,6 +370,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Mesh",
+            "targetRectangle" : {
+              "y" : 144.50665640830994,
+              "x" : 74.239978551864624,
+              "width" : 140.6806640625,
+              "height" : 76
+            }
+          },
+          {
             "text" : "Picture 3",
             "targetRectangle" : {
               "y" : 222.56831359863281,
@@ -385,15 +394,6 @@ local_slide( {
               "x" : 111.97940063476562,
               "width" : 800.3458251953125,
               "height" : 449.26071166992188
-            }
-          },
-          {
-            "text" : "Mesh",
-            "targetRectangle" : {
-              "y" : 144.50665640830994,
-              "x" : 74.239978551864624,
-              "width" : 140.6806640625,
-              "height" : 76
             }
           }
         ],
